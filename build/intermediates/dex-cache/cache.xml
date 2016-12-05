@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_07c48bd4f3b627eb2f49e4081eda8ecf6d4b9a3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c8155a424acf329046fb6dd6915e6d2b0a61f9e2">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c038918652f3215d3e4226f472d74ce1c5efaa0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_be23994ca3ee79d6c73cfc6e43de8a2f52e10c7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a2805801581d19f1e18f1c2d7a997c57b2c1c21">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3d6b0103fb99e74ff8734f104576b455ec08a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9d6ed8da6fbbefe23d6c0e2f0088108fcd4c09e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_eefbace6907aaeb5b73b5d593c421949899a85fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_e574449f5e5dbfd9acb481368dc4c0e09e741585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yoo2/AndroidStudioProjects/MyBookRoom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a8e78d040f8c69faf13f332ddd25272dd7e98ab6/classes.dex" />
+    </item>
+
+</items>
